@@ -1,0 +1,13 @@
+requests
+pandas
+yfinance
+transformers
+torch
+beautifulsoup4
+tqdm
+jupyter
+datasets
+statsmodels
+matplotlib
+seaborn
+scikit-learn
