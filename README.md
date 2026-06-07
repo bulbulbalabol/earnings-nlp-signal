@@ -62,6 +62,3 @@ ds = load_dataset("lamini/earnings-calls-qa")
 - Returns are measured from market close on the call date to close 1 or 5 trading days later.
 - OLS regression and quintile analysis are both reported; a noisy or weak signal is still informative — the goal is rigorous hypothesis testing, not a perfect result.
 
-## Resume bullet
-
-> Built an NLP sentiment signal on S&P 500 earnings call transcripts using FinBERT; validated predictive relationship with next-week excess returns via OLS regression and quintile analysis.
